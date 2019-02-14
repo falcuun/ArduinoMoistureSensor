@@ -1,0 +1,5 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "ArduinoMoistureSensor.ino",
+    "port": "COM5"
+}
